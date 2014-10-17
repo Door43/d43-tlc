@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tlc:home|Door43 (tlc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tlc|d43-tlc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tlc/archive/master.zip|d43-tlc.zip]]
+
+**Recent Changes**
+{{changes>ns = tlc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tlc|Ethnologue data]]
+
